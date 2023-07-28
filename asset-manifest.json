@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jeonjeunghoon/a11y-airline/static/css/main.6ed955ac.css",
+    "main.js": "/jeonjeunghoon/a11y-airline/static/js/main.4342a54f.js",
+    "index.html": "/jeonjeunghoon/a11y-airline/index.html",
+    "main.6ed955ac.css.map": "/jeonjeunghoon/a11y-airline/static/css/main.6ed955ac.css.map",
+    "main.4342a54f.js.map": "/jeonjeunghoon/a11y-airline/static/js/main.4342a54f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed955ac.css",
+    "static/js/main.4342a54f.js"
+  ]
+}
