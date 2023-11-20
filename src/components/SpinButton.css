@@ -65,3 +65,10 @@
   padding: 0 16px;
   margin-bottom: 8px;
 }
+
+.visuallyHidden {
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  overflow: hidden;
+}
